@@ -17,10 +17,10 @@ I hypothesized that students with little to no prior experience would find that 
 ## Visualization
 
 ### Average Pace Rating by Level of Prior Experience
-<img scr="/Final-Assignment/static/imgs/bar_graph.png" alt="Bar chart of average pace rating by level of prior experience" width="600">
+<img scr="/Final-Assignment/static/imgs/output.png" alt="Bar chart of average pace rating by level of prior experience" width="600">
 
 ### Distribution of Pace Ratings
-<img src ="/Final-Assignment/static/imgs/output.png" alt="Distribution of pace ratings by level of prior experience" width="600">
+<img src ="/Final-Assignment/static/imgs/all-outputs.png" alt="Distribution of pace ratings by level of prior experience" width="600">
 
 ### Box Plot of Pace Ratings
 <img src="/Final-Assignment/static/imgs/box-plot.png" alt="Box plot of pace ratings by level of prior experience" width="600">
